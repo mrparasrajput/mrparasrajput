@@ -1,4 +1,4 @@
-👋 hello cohort Paras Rajput here 
+#👋 hello cohort Paras Rajput here 
 
 # 💫 About Me:
 
