@@ -1,6 +1,6 @@
 
 
-#👋 Hello cohort Paras here
+#  👋 Hello cohort Paras here
 
 B.Tech Information Technology Student (2nd Year).
 Web Developer interested in building websites and learning new technologies.
@@ -8,7 +8,7 @@ Currently learning programming and web development.
 I enjoy creating projects and improving my problem-solving skills.
 Looking forward to gaining real-world experience as a developer.
 
-#🙋‍♂️ About Me
+#  🙋‍♂️ About Me
 
 
 
