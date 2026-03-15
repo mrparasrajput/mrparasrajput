@@ -10,12 +10,12 @@ Looking forward to gaining real-world experience as a developer.
 
 # 🙋‍♂️ About Me
 
-• Hi! My name is Paras 
-• From Ahmedabad, Gujarat  
-• B.Tech Information Technology Student (2nd Year)  
-• Web Developer interested in building modern websites  
-• Passionate about technology and continuous learning  
-• Hobbies: Bike riding and swimming  
+• Hi! My name is Paras
+• From Ahmedabad, Gujarat
+• B.Tech Information Technology Student (2nd Year)
+• Web Developer interested in building modern websites
+• Passionate about technology and continuous learning
+• Hobbies: Bike riding and swimming
 • Focused on improving development skills and working on real projects
 
 
