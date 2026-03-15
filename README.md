@@ -19,9 +19,12 @@ Looking forward to gaining real-world experience as a developer.
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mrparasrajput&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=mrparasrajput&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=mrparasrajput&theme=ocean_dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=mrparasrajput&theme=ocean_dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrparasrajput&theme=ocean_dark&hide_border=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
