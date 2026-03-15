@@ -10,7 +10,7 @@ Looking forward to gaining real-world experience as a developer.
 
 # 🙋‍♂️ About Me
 
-• Paras Rajput  
+• Hi! My name is Paras 
 • From Ahmedabad, Gujarat  
 • B.Tech Information Technology Student (2nd Year)  
 • Web Developer interested in building modern websites  
