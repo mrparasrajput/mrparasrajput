@@ -1,8 +1,15 @@
-## Hello world, this is my profile 👋
+👋 hello cohort Paras Rajput here 
 
 # 💫 About Me:
-🎓Information & Technology student with balanced background in sports and extra-curricular activities.
-Diligent about preparing for examinations, competitions and assignments. Reliable and responsible with good communication and relationship-building abilities
+
+💻 Information Technology Student
+🚀 Passionate about technology and continuous learning
+🤝 Strong teamwork, communication, and problem-solving skills
+🌱 Seeking my first professional experience in the tech industry
+
+
+🎓Information & Technology student with balanced background in sports and extra-curricular activities. Diligent about preparing for examinations, competitions and assignments.
+Reliable and responsible with good communication and relationship-building abilities
 
 
 # 💻 Tech Stack:
