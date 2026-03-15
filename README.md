@@ -2,11 +2,10 @@
 
 # 💫 About Me:
 
-💻 Information Technology Student
-🚀 Passionate about technology and continuous learning
-🤝 Strong teamwork, communication, and problem-solving skills
-🌱 Seeking my first professional experience in the tech industry
-
+🎓 B.Tech IT Student (2nd Year)
+💻 Learning programming and software development
+🚀 Building projects and improving skills
+🌱 Open to learning and first work opportunities
 
 🎓Information & Technology student with balanced background in sports and extra-curricular activities. Diligent about preparing for examinations, competitions and assignments.
 Reliable and responsible with good communication and relationship-building abilities
