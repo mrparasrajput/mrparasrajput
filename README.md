@@ -10,12 +10,19 @@ Looking forward to gaining real-world experience as a developer.
 
 # 🙋‍♂️ About Me
 
-Hello everyone, my name is Paras Rajput.
+My name is Paras Rajput.
+
 I am from Ahmedabad.
-I am currently pursuing B.Tech in Information Technology.
-I work as a Web Developer and I am interested in building websites.
+
+I am a B.Tech Information Technology student.
+
+I work as a Web Developer.
+
+I am interested in building websites and learning new technologies.
+
 My hobbies are bike racing and swimming.
-I enjoy learning new technologies and improving my development skills.
+
+I like to improve my coding and development skills.
 
 
 
