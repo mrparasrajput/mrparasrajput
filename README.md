@@ -1,6 +1,6 @@
 
 
-# 👋 Hello cohort Paras Rajput here
+# 👋 Hello cohort Paras here
 
 B.Tech Information Technology Student (2nd Year).
 Web Developer interested in building websites and learning new technologies.
